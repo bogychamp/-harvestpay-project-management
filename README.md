@@ -1,4 +1,4 @@
-# HarvestPay: Project Management & System Architecture 🍇
+# HarvestPay: Project Management & System Architecture
 
 This repository contains the project management documentation, system architecture, and planning artifacts for **HarvestPay** — a conceptual hardware-to-cloud solution designed to optimize harvest tracking for wineries.
 
